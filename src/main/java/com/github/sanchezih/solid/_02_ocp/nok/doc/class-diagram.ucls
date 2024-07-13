@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <class-diagram version="1.2.4" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
   associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
-  <class id="1" language="java" name="com.github.sanchezih.solid._02_ocp.nok.src.AreaCalculator" project="solido" 
-    file="/solido/src/main/java/com/github/sanchezih/solid/_02_ocp/nok/src/AreaCalculator.java" binary="false" 
+  <class id="1" language="java" name="com.github.sanchezih.solid._02_ocp.nok.src.AreaCalculator" project="solid-java" 
+    file="/solid-java/src/main/java/com/github/sanchezih/solid/_02_ocp/nok/src/AreaCalculator.java" binary="false" 
     corner="BOTTOM_RIGHT">    
     <position height="135" width="251" x="41" y="37"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 

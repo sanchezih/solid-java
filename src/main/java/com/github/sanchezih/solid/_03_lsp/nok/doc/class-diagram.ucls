@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <class-diagram version="1.2.4" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
   associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
-  <class id="1" language="java" name="com.github.sanchezih.solid._03_lsp.nok.src.Bird" project="solido" 
-    file="/solido/src/main/java/com/github/sanchezih/solid/_03_lsp/nok/src/Bird.java" binary="false" 
+  <class id="1" language="java" name="com.github.sanchezih.solid._03_lsp.nok.src.Bird" project="solid-java" 
+    file="/solid-java/src/main/java/com/github/sanchezih/solid/_03_lsp/nok/src/Bird.java" binary="false" 
     corner="BOTTOM_RIGHT">    
-    <position height="99" width="98" x="41" y="37"/>    
+    <position height="99" width="191" x="41" y="37"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="2" language="java" name="com.github.sanchezih.solid._03_lsp.nok.src.Ostrich" project="solido" 
-    file="/solido/src/main/java/com/github/sanchezih/solid/_03_lsp/nok/src/Ostrich.java" binary="false" 
+  <class id="2" language="java" name="com.github.sanchezih.solid._03_lsp.nok.src.Ostrich" project="solid-java" 
+    file="/solid-java/src/main/java/com/github/sanchezih/solid/_03_lsp/nok/src/Ostrich.java" binary="false" 
     corner="BOTTOM_RIGHT">    
-    <position height="81" width="98" x="41" y="176"/>    
+    <position height="81" width="191" x="41" y="176"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
