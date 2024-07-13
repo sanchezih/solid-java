@@ -7,9 +7,13 @@ SOLID es un acronimo acuñado por Robert C. Martin para definir los cinco princi
 ## Principios
 
 | Inicial | Acronimo | Concepto |
-|:-:|---|---|
-| S | SRP |   Single Responsibility: Each class should have only one sole purpose, and not be filled with excessive functionality.							|
-| O | OCP |	Open Closed: Classes should be open for extension, closed for modification. In other words, you should not have to rewrite an existing class for implementing new features.												|
-| L | LSP |	Liskov Substitution: This means that every subclass or derived class should be substitutable for their base or parent class.	|
-| I | ISP |	Interface Segregation: Interfaces should not force classes to implement what they can't do. Large interfaces should be divided into small ones.										|
-| D | DIP |	Dependency Inversion: Components should depend on abstractions, not on concretions.					|
+|:-:|:-:|---|
+| S | SRP | Principio de responsabilidad Unica (Single responsibility principle): Each class should have only one sole purpose, and not be filled with excessive functionality. |
+
+| O | OCP |	Principio de abierto/cerrado (Open/closed principle): Classes should be open for extension, closed for modification. In other words, you should not have to rewrite an existing class for implementing new features. |
+
+| L | LSP |	Principio de sustituciOn de Liskov (Liskov substitution principle): This means that every subclass or derived class should be substitutable for their base or parent class. |
+
+| I | ISP |	Principio de segregaciOn de la interfaz (Interface segregation principle): Interfaces should not force classes to implement what they can't do. Large interfaces should be divided into small ones. |
+
+| D | DIP |	Principio de inversiOn de la dependencia (Dependency inversion principle): Components should depend on abstractions, not on concretions. |
