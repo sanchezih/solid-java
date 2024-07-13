@@ -7,22 +7,9 @@ SOLID es un acronimo acuñado por Robert C. Martin para definir los cinco princi
 ## Principios
 
 | Clase Nro. | Tema |
-|:-:|---|
-| 01|   Introduccion a Algoritmos y Java							|
-| 02|	Git y GitHub												|
-| 03|	Arrays y Strings											|
-| 04|	Programas y Archivos										|
-| 05|	Introducción a la programación OO en Java					|
-| 06|	Testing														|
-| 07|	Herencia en Java											|
-| 08|	Excepciones y Colecciones en Java							|
-| 09|	Configuración de Software									|
-| 10|	Ejercicio integrador intermedio - Validador de Correlativas	|
-| 11|	Java y SO													|
-| 12|	Persistencia Relacional										|
-| 13|	JDBC														|
-| 14|	Expresiones Regulares										|
-| 15|	Tipos de Archivo											|
-| 16|	Consultas y Repaso 											|
-| 17|	Simulacro													|
-| 18|	Presentacion TP Integrador									|
+|:-:|---|---|
+| S |   Single Responsibility: Each class should have only one sole purpose, and not be filled with excessive functionality.							|
+| O |	Open Closed: Classes should be open for extension, closed for modification. In other words, you should not have to rewrite an existing class for implementing new features.												|
+| L |	Liskov Substitution: This means that every subclass or derived class should be substitutable for their base or parent class.	|
+| I |	Interface Segregation: Interfaces should not force classes to implement what they can't do. Large interfaces should be divided into small ones.										|
+| D |	Dependency Inversion: Components should depend on abstractions, not on concretions.					|
