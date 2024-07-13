@@ -1,4 +1,4 @@
-package com.github.sanchezih.solid._01_srp.nok;
+package com.github.sanchezih.solid._01_srp.nok.src;
 
 public class Report {
 

@@ -1,4 +1,4 @@
-package com.github.sanchezih.solid._01_srp.ok;
+package com.github.sanchezih.solid._01_srp.ok.src;
 
 public class ReportGenerator {
 	public void generateReport(Report report) {
