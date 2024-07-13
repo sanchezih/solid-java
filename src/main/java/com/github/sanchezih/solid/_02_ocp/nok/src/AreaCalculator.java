@@ -1,4 +1,4 @@
-package com.github.sanchezih.solid._02_ocp.nok;
+package com.github.sanchezih.solid._02_ocp.nok.src;
 
 //Updated class violating OCP by modifying existing code
 public class AreaCalculator {

@@ -2,7 +2,7 @@ package com.github.sanchezih.solid._02_ocp.ok;
 
 //Rectangle implementation
 public class Rectangle implements Shape {
-	
+
 	private double width;
 	private double height;
 
