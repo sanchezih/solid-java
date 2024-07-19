@@ -8,8 +8,8 @@ SOLID es un acronimo acuñado por Robert C. Martin para definir los cinco princi
 
 | Inicial | Acronimo | Concepto |
 |:-:|:-:|---|
-| S | SRP | Principio de responsabilidad unica (Single responsibility principle): Each class should have only one sole purpose, and not be filled with excessive functionality. |
-| O | OCP |	Principio de abierto/cerrado (Open/closed principle): Classes should be open for extension, closed for modification. In other words, you should not have to rewrite an existing class for implementing new features. |
-| L | LSP |	Principio de sustitucion de Liskov (Liskov substitution principle): This means that every subclass or derived class should be substitutable for their base or parent class. |
-| I | ISP |	Principio de segregacion de la interfaz (Interface segregation principle): Interfaces should not force classes to implement what they can't do. Large interfaces should be divided into small ones. |
-| D | DIP |	Principio de inversion de la dependencia (Dependency inversion principle): Components should depend on abstractions, not on concretions. |
+| S | SRP | Principio de responsabilidad unica (Single responsibility principle): Cada clase debe tener un unico proposito y no estar llena de funcionalidad excesiva. |
+| O | OCP |	Principio de abierto/cerrado (Open/closed principle): Las clases deben estar abiertas para extension y cerradas para modificacion. En otras palabras, no se deberia tener que reescribir una clase existente para implementar nuevas funciones. |
+| L | LSP |	Principio de sustitucion de Liskov (Liskov substitution principle): Esto significa que cada subclase debe ser sustituible por su superclase. |
+| I | ISP |	Principio de segregacion de la interfaz (Interface segregation principle): Las interfaces no deberian obligar a las clases a implementar lo que no pueden hacer. Las interfaces grandes deben dividirse en interfaces mas chicas. |
+| D | DIP |	Principio de inversion de la dependencia (Dependency inversion principle): Los componentes deberian depender de abstracciones y no de clases concretas. |
