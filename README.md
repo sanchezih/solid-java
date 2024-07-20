@@ -2,7 +2,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/sanchezih/solid-java)
 ![GitHub repo size](https://img.shields.io/github/repo-size/sanchezih/solid-java)
 
-SOLID es un acronimo acuñado por Robert C. Martin para definir los cinco principios basicos de la programacion orientada a objetos: Single responsibility, Open-closed, Liskov substitution, Interface segregation y Dependency inversion
+SOLID es un conjunto de principios extraidos de los escritos de Robert C. Martin a principios de la decada de 2000. Se propuso como una forma de pensar especificamente en la calidad de la programacion orientada a objetos (OO). En conjunto, los principios SOLID presentan argumentos sobre como se debe dividir el codigo, que partes deben ser internas o expuestas y como el codigo debe usar otro codigo.
 
 ## Principios
 
